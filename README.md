@@ -1,4 +1,4 @@
-# Simplilearn-Retail-Analysis-with-Walmart-Data
+# Retail-Analysis-with-Walmart-Data
 
 ## DESCRIPTION
 
